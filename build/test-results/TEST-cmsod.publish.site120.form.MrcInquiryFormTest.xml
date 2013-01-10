@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite errors="0" failures="0" hostname="dongzhu.yin.local" name="cmsod.publish.site120.form.MrcInquiryFormTest" tests="1" time="8.78" timestamp="2012-11-09T05:55:48">
-  <properties />
-  <testcase classname="cmsod.publish.site120.form.MrcInquiryFormTest" name="testMrcInquiryFormTest" time="8.778" />
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
